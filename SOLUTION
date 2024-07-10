@@ -1,17 +1,21 @@
-<your secret here>      <<  Change this line. The secret must be placed in the first line
+<814c5723c21e7e90a3eae36c8df3c513>
+
 
 
 Kernel System Calls
 -------------------
-<Your Answer>
-
+the file saves several files (and a dir) on the system, hinting where can i find those
 
 Broken Symlink
 -------------------
-<Your Answer>
+The fix would be removing the symlink and running the following command :
+ln -s backups...
 
 
 
 Binary Numbers
 --------------
-<Your Answer>
+1: 7,4,22
+2: 256
+3: use 1/0 and flip means negative is 1 and positive is 0
+4:4 bits for integers and 4 bits for fractions
